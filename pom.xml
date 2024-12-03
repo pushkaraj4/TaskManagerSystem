@@ -8,7 +8,6 @@
         <version>2.1.5.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>pl.rengreen</groupId>
     <artifactId>task-manager</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>task-manager</name>
